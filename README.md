@@ -45,4 +45,3 @@ Hi all, I'm **Mohammad**! 👋
 </table>
 </hr>
 
-![photo_2026-02-26_04-59-54](https://github.com/user-attachments/assets/802d857f-b67d-4e50-8b7e-8ef7f0d1cd2a)
